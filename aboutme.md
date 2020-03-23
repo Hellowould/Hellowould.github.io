@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: links
+subtitle: 자기소개
 ---
-Hellowould github =https://github.com/Hellowould
+곧 군대에 갈 예정입니다.
 
