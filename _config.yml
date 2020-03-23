@@ -20,7 +20,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "https://github.com/Hellowould"
+  About Me: "about.me"
   Resources:
     - github: "https://github.com/Hellowould"
     - Hello: "https://github.com/Hellowould"
