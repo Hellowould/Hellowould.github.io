@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\img",
+    "\\_posts"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_posts\\2020-03-23-first-post.md",
   "PreviewInSolutionExplorer": false
 }
