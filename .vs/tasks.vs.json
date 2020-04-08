@@ -5,6 +5,11 @@
       "taskLabel": "task-2020-03-23-first-post",
       "appliesTo": "_posts/2020-03-23-first-post.md",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-newpage",
+      "appliesTo": "newpage.html",
+      "type": "launch"
     }
   ]
 }
